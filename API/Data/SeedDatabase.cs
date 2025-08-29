@@ -36,15 +36,15 @@ namespace API.Data
             {
                 var admin = new AppUser
                 {
-                    Name = "ilayda Kackin",
-                    UserName = "ilaydakackin",
-                    Email = "kackinilayda@gmail.com",
+                    Name = "Jane Doe",
+                    UserName = "janedoe",
+                    Email = "janedoe@gmail.com",
                 };
                 var customer = new AppUser
                 {
-                    Name = "Muharrem Kackin",
-                    UserName = "kackinmuharrem",
-                    Email = "kackinmuharrem@gmail.com",
+                    Name = "John Doe",
+                    UserName = "johndoe",
+                    Email = "johndoe@gmail.com",
                 };
 
                 await userManager.CreateAsync(customer, "Kfdfv_l20");
