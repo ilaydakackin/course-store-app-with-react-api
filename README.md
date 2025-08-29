@@ -150,14 +150,14 @@ API/
 The application seeds with two default users:
 
 **Admin User:**
-- Username: `ilaydakackin`
-- Email: `kackinilayda@gmail.com`
+- Username: `janedoe`
+- Email: `janedoe@gmail.com`
 - Password: `Ghjnj_m40`
 - Roles: Admin, Customer
 
 **Customer User:**
-- Username: `kackinmuharrem`
-- Email: `kackinmuharrem@gmail.com`
+- Username: `johndoe`
+- Email: `johndoe@gmail.com`
 - Password: `Kfdfv_l20`
 - Roles: Customer
 
